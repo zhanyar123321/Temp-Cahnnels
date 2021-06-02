@@ -1,0 +1,24 @@
+{
+    "name": "temp-cahnnels",
+    "version": "1.0.0",
+    "description": "Make a temporary voice and text discord channels easly",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevelopersSupportAR/Temp-Cahnnels.git"
+    },
+    "keywords": [
+        "discord-temp-channel"
+    ],
+    "author": "N1R0",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DevelopersSupportAR/Temp-Cahnnels/issues"
+    },
+    "homepage": "https://github.com/DevelopersSupportAR/Temp-Cahnnels#readme"
+}
